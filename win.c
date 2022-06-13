@@ -2,7 +2,5 @@
 
 int main (void)
 {
-    int i = 1;
-    int b = 75;
-    return b;
+    printf("9 8 10 24 75 9");
 }
