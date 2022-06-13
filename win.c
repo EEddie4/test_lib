@@ -3,5 +3,6 @@
 int main (void)
 {
     int i = 1;
-    return i;
+    int b = 75;
+    return i, b;
 }
